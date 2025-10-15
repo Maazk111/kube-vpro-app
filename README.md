@@ -57,7 +57,7 @@ It simulates a **real-world production environment** where scalability, availabi
 ## 🛠️ Architecture Diagram
 
 <p align="center">
-  <img src="images/architecture%20diagram.png" width="850" alt="Kubernetes vProfile Architecture"/>
+  <img src="images/diagram.png" width="850" alt="Kubernetes vProfile Architecture"/>
 </p>
 
 **Figure:** Full Kubernetes Deployment Flow (Ingress → Tomcat → Services → DB + Cache + MQ)
@@ -74,7 +74,7 @@ Each stage below contains the corresponding snapshot, YAML file references, and 
 **File:** `git clone https://github.com/Maazk111/vprokube.git`
 
 <p align="center"><img src="images/1.png" width="750"></p>
-**Description:** The vProKube repository is cloned locally containing all Kubernetes manifests (`appdeploy.yaml`, `dbpvc.yaml`, `rmqservice.yaml`, etc.).
+The vProKube repository is cloned locally containing all Kubernetes manifests (`appdeploy.yaml`, `dbpvc.yaml`, `rmqservice.yaml`, etc.).
 
 ---
 
