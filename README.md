@@ -73,7 +73,7 @@ Each stage below contains the corresponding snapshot, YAML file references, and 
 
 ### **1. Clone Repository**
 
-**File:** `git clone https://github.com/Maazk111/vprokube.git`
+**File:** `git clone https://github.com/Maazk111/kube-vpro-app.git`
 
 <p align="center"><img src="images/1.png" width="750"></p>
 The vProKube repository is cloned locally containing all Kubernetes manifests (`appdeploy.yaml`, `dbpvc.yaml`, `rmqservice.yaml`, etc.).
