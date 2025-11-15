@@ -167,7 +167,7 @@ The vProfile web application is live and accessible via ingress domain. The logi
 ### **12. Database Layer Validation**
 
 <p align="center"><img src="images/12.png" width="750"></p>
-Data retrieved from the **MySQL database**, also inserted into the cache (Memcached). Indicates DB connectivity and caching integration.
+Data retrieved from the (MySQL database), also inserted into the cache (Memcached). Indicates DB connectivity and caching integration.
 
 ---
 
